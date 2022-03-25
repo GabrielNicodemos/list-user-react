@@ -1,0 +1,9 @@
+
+[
+ {
+    primary: #222,
+    roxo: #633bbc
+    laranja: #FF4843
+    verde: #04D361
+ }
+]

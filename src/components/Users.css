@@ -1,0 +1,20 @@
+.users-container-table {
+  background-color: #444;
+  margin: 8px 0;
+  padding: 15px 20px;
+  display: flex;
+  border-radius: 5px;
+  justify-content: space-between;
+  color: #eee;
+  align-items: center;
+  border: 1px solid #04d361;
+}
+
+.users-container-table h1 {
+  font-size: 24px;
+}
+.add-button-container {
+  width: 400px;
+  margin-bottom: 30px;
+  margin-top: 30px;
+}
